@@ -10,6 +10,9 @@ This folder contains coursework from the CIS Database Design course at UofL. Thi
 ### Information Security 
 This folder contains coursework from the CIS Introduction to Information Security Course at UofL. This work explores, in broad strokes, the basics necessary in understanding Information Security and its importance in the workplace. The Coursework itself is simply a reflection of the major topics discussed throughout the course, which culminates to a brief security analysis I conducted for Brick Bridge Consulting.
 
+### Resume
+This folder contains an up-to-date downloadable resume.
+
 ### Software Development 
 This folder contains coursework from both the Introductory and Intermediate CIS Software Development Courses at UofL. The coursework helps project a timeline of growth from my first time using Visual Studio, all the way up to more advanced programming topics and assignments using  C# .NET.
 
@@ -19,5 +22,4 @@ This folder contains the entirety of the cousework from the CIS Systems Analysis
 ### Web Development
 This folder contains the coursework from the CIS Development Project course at UofL. In this course, I executed the DEVELOPMENT phase of the project for the work that began in the Systems Analysis and Design course. The work within is a direct copy of the original GitHub repository used when developing the website for the client.
 
-### Resume
-This folder contains an up-to-date downloadable resume. 
+ 
